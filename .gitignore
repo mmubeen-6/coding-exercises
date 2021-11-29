@@ -1,0 +1,4 @@
+*/*/build/
+.vscode
+leetcode/*/__pycache__
+.config/
